@@ -18,3 +18,7 @@ called `config.csv`.
 - `base_url`: (optional) for the `reviewLink` field to be generated
   properly.
 
+The final file name will be: 
+```
+company_name + '_' + start_index + '_' + last_page_index + '.csv'
+```
