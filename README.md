@@ -1,6 +1,6 @@
 # glassdoor Scraper Plus
 
-A portion of the body of scraping part comes from
+A portion of the body of scraping part and `userAgents.py` come from
 <https://github.com/ceewick/glassdoorScraper>. 
 
 ## Usage 
