@@ -1,0 +1,3 @@
+url,start_index,end_index,company_name,max_retry_time,page_type,base_url
+"https://www.glassdoor.com/Reviews/PwC-US-Reviews-EI_IE8450.0,3_IL.4,6_IN1.htm?filter.defaultEmploymentStatuses=false&filter.defaultLocation=false&filter.employmentStatus=REGULAR&filter.employmentStatus=PART_TIME",1,5,PwC_US,3,country,https://www.glassdoor.com/Reviews/PwC-Reviews-E8450.htm
+"https://www.glassdoor.com/Reviews/PwC-US-Reviews-EI_IE8450.0,3_IL.4,6_IN1_IP4.htm?filter.defaultEmploymentStatuses=false&filter.defaultLocation=false&filter.employmentStatus=REGULAR&filter.employmentStatus=PART_TIME&filter.employmentStatus=UNKNOWN",1,4,PwC,3,normal,https://www.glassdoor.com/Reviews/PwC-Reviews-E8450.htm
